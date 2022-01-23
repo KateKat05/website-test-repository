@@ -2,7 +2,8 @@ a.boxlink {
   
   background-color: tomato;
   color: tomato;
-    
+  text-align: right;
+  font-size: 400%;
 }
 
 p{

@@ -1,6 +1,11 @@
 a.boxlink {
   
-  background-color: tomato
-  color: tomato
+  background-color: tomato;
+  color: tomato;
     
+}
+
+p{
+  color: blue;
+  
 }
